@@ -51,7 +51,8 @@
         "extrakey": true,
         "console": true,
         "command": true,
-        "rgblight": true
+        "rgblight": true,
+		"backlight" : true
     },
     "qmk": {
         "locking": {

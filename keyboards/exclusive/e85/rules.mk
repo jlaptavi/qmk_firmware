@@ -1,1 +1,1 @@
-DEFAULT_FOLDER = exclusive/e85/hotswap
+DEFAULT_FOLDER = exclusive/e85/soldered
